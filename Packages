@@ -1,0 +1,12 @@
+Package: toolsaya
+Version: 1.0
+Architecture: all
+Maintainer: Kamu <wanz@gmail.com>
+Depends: bash
+Filename: ./toolsaya-1.0.deb
+Size: 3132
+MD5sum: e0ba5d36acf3335b6eaa1b902bfa8eec
+SHA1: eaf779e567716646736e3e016315a122c0d01da0
+SHA256: 6721292f172c0b39bdf756db30e35872066e0ab7c81196b0a56f641542e24f8e
+Description: Tools bash buatan sendiri
+
